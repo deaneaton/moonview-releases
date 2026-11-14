@@ -1,7 +1,7 @@
 {
- "version": "2.9.0",
+ "version": "2.10.0",
  "shell": "2.8.0",
- "sha256": "2610b2859ce6e9e4a56975bdbef83f87f5facc2562c522b79d50a4966fc17fe1",
- "page": "https://raw.githubusercontent.com/deaneaton/moonview-releases/main/app/moonview-2.9.0.html",
- "source": "cbc60ba"
+ "sha256": "a1c2f2a71de2cdbc3ce59a79cb3fc1b278d98cbdae11d99b354f5f35e00754b3",
+ "page": "https://raw.githubusercontent.com/deaneaton/moonview-releases/main/app/moonview-2.10.0.html",
+ "source": "1427105"
 }
